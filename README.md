@@ -54,4 +54,4 @@ Other Skills  : REST APIs, AI integration, GitHub Projects
 ## 📫 Get in Touch
 
 - **📧 Email:** jayveeong0205@gmail.com
-- **🧑‍💻 GitHub:** [github.com/jayveeong05](https://github.com/)
+- **🧑‍💻 GitHub:** [github.com/jayveeong05](https://github.com/jayveeong05)
